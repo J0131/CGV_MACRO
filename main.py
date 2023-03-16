@@ -10,8 +10,8 @@ from tkinter import *
 
 chrome_path = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s'
 
-send_id = "iwhy1201"
-send_password = "hy0131!!"
+send_id = "id"
+send_password = "password"
 
 window = Tk()
 
